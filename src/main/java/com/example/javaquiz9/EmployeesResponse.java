@@ -1,4 +1,7 @@
 package com.example.javaquiz9;
 
-public class Employees {
+import java.util.List;
+
+public class EmployeesResponse {
+    public List<Employee> Employees;
 }
